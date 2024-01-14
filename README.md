@@ -2,6 +2,7 @@
 ## Overview
 <p>Welcome to my personal portfolio! This web application showcases my skills, projects, and experiences. It is designed to provide visitors with a comprehensive view of my professional journey and capabilities.</p>
 <br><a href="https://prathmeshk9561.github.io/MyPortfolio/">Live Link</a>
+
 ## Features
 **About Me:** Learn more about who I am, my background, and my interests.
 
@@ -13,11 +14,11 @@
 
 **Contact:** Reach out to me through the provided contact information or the contact form.
 
-##Technologies Used
+## Technologies Used
 **Frontend:**
 HTML
 CSS
 JavaScript
 
 **Deployment:**
-Portfolio is hosted on the Github Pages.
+The portfolio is hosted on the GitHub Pages.
